@@ -1,0 +1,2 @@
+subm_vive
+-DCATKIN_DEVEL_PREFIX=/home/shrouk/git/submVive_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shrouk/git/submVive_catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/shrouk/git/submVive_catkin_ws/devel
+
+Name: subm_vive
+Description: Description of subm_vive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
